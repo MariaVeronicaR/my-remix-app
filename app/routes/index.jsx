@@ -45,7 +45,7 @@ export default function Index() {
                         to="/products"
                         className="text-xl text-blue-600 underline"
                       >
-                        See products
+                        See all products
                       </Link>
                     </div>
                     
